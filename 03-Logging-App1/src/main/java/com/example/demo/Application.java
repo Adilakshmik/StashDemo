@@ -7,9 +7,16 @@ import org.springframework.context.ConfigurableApplicationContext;
 @SpringBootApplication
 public class Application {
 
+
 	public void m2(){
 		String a="vani";
 		String b="nani";
+
+	public void m1(){
+		int a=10;
+		int b=20;
+		int c=30;
+
 	}
 
 	public static void main(String[] args) {
