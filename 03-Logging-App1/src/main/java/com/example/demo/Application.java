@@ -10,7 +10,9 @@ public class Application {
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context = SpringApplication.run(Application.class, args);
 
+		int a=10;
+
 		
-	int a=10;
+	
 
 }
