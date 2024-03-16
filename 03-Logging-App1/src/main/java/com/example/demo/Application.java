@@ -11,6 +11,6 @@ public class Application {
 		ConfigurableApplicationContext context = SpringApplication.run(Application.class, args);
 
 		
-
+	int a=10;
 
 }
